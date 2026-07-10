@@ -10,7 +10,7 @@ A local LLM-powered data analysis assistant. Upload any CSV/Excel dataset and as
 
 ## 🚀 Live Demo
 
-[**Launch the Streamlit App**](https://share.streamlit.io) *(deployed on Streamlit Community Cloud — coming soon)*
+[**Launch the Streamlit App**](https://share.streamlit.io) *(deployed on Streamlit Community Cloud )*
 
 <!-- After deployment, replace with actual URL and add screenshot/GIF -->
 <!-- ![ChatData Demo](docs/demo.gif) -->
